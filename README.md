@@ -1,5 +1,5 @@
-# simplezip
-A simple Go module to zip and unzip files.
+# simpleutil
+A simple Go module of useful utilities.
 
 Works on Windows & Linux.
 
