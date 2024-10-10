@@ -1,7 +1,7 @@
 # simpleutil
 A simple Go module of useful utilities.
 
-Works on Windows & Linux.
+- Run tests with `go test ./...`
 
 ## License
 See LICENSE file.
